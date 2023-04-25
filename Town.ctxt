@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Town
+comment1.params=
+comment1.target=void\ visitSupermarket()
+comment2.params=
+comment2.target=void\ visitHospital()
+comment3.params=
+comment3.target=void\ visitStore()
+numComments=4

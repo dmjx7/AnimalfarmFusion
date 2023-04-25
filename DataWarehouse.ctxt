@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DataWarehouse
+comment1.params=
+comment1.target=java.lang.String\ randomType()
+comment2.params=
+comment2.target=java.lang.String\ randomMaleName()
+comment3.params=
+comment3.target=java.lang.String\ randomFemaleName()
+comment4.params=
+comment4.target=java.lang.String\ randomGender()
+numComments=5

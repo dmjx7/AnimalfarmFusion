@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Barnyard
+comment1.params=
+comment1.target=java.util.ArrayList\ getBarnyard()
+comment10.params=
+comment10.target=void\ upgradeBarnyard()
+comment2.params=
+comment2.target=int\ getBarnyardLvl()
+comment3.params=
+comment3.target=int\ getBarnyardCap()
+comment4.params=
+comment4.target=void\ printAllAnimals()
+comment5.params=i\ a
+comment5.target=void\ addAnimal(int,\ Animal)
+comment6.params=
+comment6.target=void\ removeAnimal()
+comment7.params=a
+comment7.target=void\ animalPrices(Animal)
+comment8.params=
+comment8.target=void\ buyAnimals()
+comment9.params=
+comment9.target=void\ sellAnimals()
+numComments=11
